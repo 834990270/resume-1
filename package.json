@@ -15,7 +15,7 @@
     "sugarss": "^1.0.1"
   },
   "devDependencies": {
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^2.1.0",
     "sass-loader": "^6.0.6",
     "webpack": "^3.10.0"
